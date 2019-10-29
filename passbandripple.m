@@ -34,4 +34,5 @@ plot((p/pi),h);
 xlabel('Normalised Frequency');
 ylabel('Gain');
 title('LPF Design of FIR Filter using Triangular Window');
+%adding comments to  the coddde ...please accept
 
